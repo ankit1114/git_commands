@@ -19,7 +19,7 @@ To add a new remote, use the git remote add command on the terminal, in the dire
 (This command sends the committed changes of master branch to your remote repository.)
 
 * git push -f/-u origin master
-
+:- git push -f origin master
 * git pull https://github.com/user/repo.git 
 (This command fetches and merges changes on the remote server to your working directory)
 
