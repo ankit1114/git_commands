@@ -1,7 +1,7 @@
 # Git_Commands
 
 * git init
-(This command is used to start a new repository.)
+(This command is used to initialize git start a new repository.)
 
 * git status
 (This command lists all the files that have to be committed.)
